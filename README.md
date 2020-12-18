@@ -5,7 +5,7 @@ Sensor de humedad: DHT-11
 Board: ESP-32
 Monitoreo: Wifi
 
-##Implementacion
+## Implementacion
  - Reporte de metericas en IncluxDB
  - Api rest en ESP-32 para reporte via web
  - Multitarea en ESP-32
