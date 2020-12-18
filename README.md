@@ -6,6 +6,7 @@ Board: ESP-32
 Monitoreo: Wifi
 
 ## Implementacion
- - Reporte de metericas en IncluxDB
+ - Hosting de InfluxDB en Docker swarm local (Portainer.io, Traefix, InfluxDB)
+ - Reporte de metricas en InfluxDB mediante api rest 
  - Api rest en ESP-32 para reporte via web
  - Multitarea en ESP-32
